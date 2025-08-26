@@ -5,6 +5,7 @@ project:
 #    - "*.{qmd,R,py}"
     - "*.qmd"           # render all *.qmd files
     - "!site/this_dir/" # don't render a directory
+    
     #- "!call_scripts/" # don't render a directory
   #pre-render: Rscript prerender.R #load_libraries.R
   # after rendering completes, script that removes .R files from the docs/ folder.
