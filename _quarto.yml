@@ -85,9 +85,9 @@ website:
         href: https://github.com/username   # omit for multiple users
         
       # not necessary
-      - text: "@myxhandle"
-        href: https://x.com/myxhandle
-        aria-label: X (formerly Twitter)
+      #- text: "@myxhandle"
+      #  href: https://x.com/myxhandle
+      #  aria-label: X (formerly Twitter)
 
 format:
   html:
